@@ -1,0 +1,14 @@
+# webcrawler 
+lxml
+bs4
+selenium
+requests
+
+# For telegram
+python-telegram-bot
+
+
+# For visiualization
+image
+matplotlib
+tqdm
