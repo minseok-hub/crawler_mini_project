@@ -72,7 +72,7 @@ if __name__=="__main__":
     driver.implicitly_wait(3)
     url = 'https://smartstore.naver.com/launhing'
 
-    my_token = '1300144686:AAG2rxUQJZBIJw5WSwigk8NLfUy6KTgPCAY'
+    my_token = 'api 토큰'
     driver.get(url)
     # telegram Bot 생성
     bot = Bot(token=my_token)
